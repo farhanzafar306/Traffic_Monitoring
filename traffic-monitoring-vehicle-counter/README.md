@@ -2,8 +2,6 @@
 
 Real-time vehicle detection, tracking, and line-crossing counter built on a fine-tuned YOLOv8n model. Built as part of my internship at NECOP (National Electronics Complex of Pakistan) AI lab.
 
-![demo placeholder](docs/demo.gif)
-*(replace with a short GIF or screen recording of the Gradio app or output video)*
 
 ## Overview
 
